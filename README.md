@@ -14,7 +14,7 @@
 ## 🗺️ 学习路线与进度看板
 
 - [ ] **第一阶段：LLM 原生开发与工具调用**
-  - [ ] 01_simple_call: 原生大模型 API 调用 (Python)
+  - [ ] 01_simple_call: 原生大模型 API 调用 
   - [ ] 02_streaming: SSE 流式输出在前后端的实现
   - [ ] 03_tool_calling: 深入掌握 Function/Tool Calling
 - [ ] **第二阶段：RAG 与向量检索**
